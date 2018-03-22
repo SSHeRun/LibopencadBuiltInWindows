@@ -1,0 +1,27 @@
+# CMake generation dependency list for this directory.
+E:/新项目/libopencad-master/libopencad-master/CMakeLists.txt
+E:/新项目/libopencad-master/libopencad-master/bin/CMakeFiles/3.8.0-rc4/CMakeSystem.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeSystemSpecificInitialize.cmake
+E:/新项目/libopencad-master/libopencad-master/bin/CMakeFiles/3.8.0-rc4/CMakeCCompiler.cmake
+E:/新项目/libopencad-master/libopencad-master/bin/CMakeFiles/3.8.0-rc4/CMakeCXXCompiler.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/Platform/Windows-MSVC.cmake
+E:/新项目/libopencad-master/libopencad-master/bin/CMakeFiles/3.8.0-rc4/CMakeRCCompiler.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/GNUInstallDirs.cmake
+E:/新项目/libopencad-master/libopencad-master/cmake/uninstall.cmake.in
+E:/新项目/libopencad-master/libopencad-master/cmake/FindAnyProject.cmake
+C:/Program Files/CMake/share/cmake-3.8/Modules/CMakeParseArguments.cmake

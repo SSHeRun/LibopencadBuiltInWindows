@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\新项目\libopencad-master\libopencad-master\lib\opencad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\新项目\libopencad-master\libopencad-master\lib\cadfile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\新项目\libopencad-master\libopencad-master\lib\cadfileio.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\新项目\libopencad-master\libopencad-master\lib\cadfilestreamio.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\新项目\libopencad-master\libopencad-master\lib\cadheader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\新项目\libopencad-master\libopencad-master\lib\cadclasses.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\新项目\libopencad-master\libopencad-master\lib\cadtables.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\新项目\libopencad-master\libopencad-master\lib\cadgeometry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\新项目\libopencad-master\libopencad-master\lib\cadobjects.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\新项目\libopencad-master\libopencad-master\lib\cadlayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\新项目\libopencad-master\libopencad-master\lib\caddictionary.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\新项目\libopencad-master\libopencad-master\lib\opencad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\新项目\libopencad-master\libopencad-master\lib\opencad_api.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\新项目\libopencad-master\libopencad-master\lib\cadfile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\新项目\libopencad-master\libopencad-master\lib\cadfileio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\新项目\libopencad-master\libopencad-master\lib\cadheader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\新项目\libopencad-master\libopencad-master\lib\cadclasses.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\新项目\libopencad-master\libopencad-master\lib\cadtables.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\新项目\libopencad-master\libopencad-master\lib\cadgeometry.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\新项目\libopencad-master\libopencad-master\lib\cadlayer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\新项目\libopencad-master\libopencad-master\lib\cadcolors.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\新项目\libopencad-master\libopencad-master\lib\caddictionary.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\新项目\libopencad-master\libopencad-master\lib\cadobjects.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\新项目\libopencad-master\libopencad-master\lib\cadfilestreamio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\新项目\libopencad-master\libopencad-master\lib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="E:\新项目\libopencad-master\libopencad-master\bin\lib\dwg\dwg.dir\$(Configuration)\io.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\新项目\libopencad-master\libopencad-master\bin\lib\dwg\dwg.dir\$(Configuration)\r2000.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{565E2E8A-E6A7-3E83-9FE3-0D334E12C46E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{093A9D05-B663-31B2-AAFC-AC87022E98A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Files">
+      <UniqueIdentifier>{E3A6D1D1-71F9-3657-BF73-201796BC607D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Libraries">
+      <UniqueIdentifier>{99A761DB-B77F-3294-9DDA-933DE0106E44}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
